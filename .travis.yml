@@ -1,2 +1,6 @@
-language: c
+language: r
 sudo: required
+install: make get-deps
+compiler:
+  - gcc
+  
