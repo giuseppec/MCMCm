@@ -1,0 +1,5 @@
+useDynLib(MCMCm)
+import(coda)
+import(MCMCpack)
+
+export(MCMCm)
